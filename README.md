@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aarongoinboise
-- 👀 I’m interested in software development and self improvement.
-- 🌱 I’m currently learning Java, Version Control, C, SQL, Data Structures, and more!
-- 💞️ I’m looking to collaborate on searching and sorting algorithms.
+- 👀 I’m interested in software development, cybersecurity, business integrations, and self improvement.
+- 🌱 I’m currently learning about Microprocessors, Web Development, Distributed Systems, Docker, and more!
+- 💞️ My favorite topics include efficient database storage, error handling, and backend projects with web applications. 
 - 📫 How to reach me: aaronjamesgoin@gmail.com
 
 <!---
