@@ -4,7 +4,7 @@
 - 🤝 My key skills include problem solving, verbal and written communication, curiosity, reliability, ambition, organizational skills, and emotional intelligence.
 - 🌱 I’m currently learning about Microprocessors, Web Development, AWS, Distributed Systems, Docker, and more!
 - 💞️ My favorite topics include efficient database storage, algorithms, data structures, error handling, and backend projects with web applications. 
-- 📫 How to reach me: aaronjamesgoin@gmail.com or https://www.linkedin.com/in/aaron-goin-0434221b3
+- 📫 How to reach me: aaronjamesgoin@gmail.com or [LinkedIn](https://www.linkedin.com/in/aaron-goin-0434221b3)
 
 <!---
 aarongoinboise/aarongoinboise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
