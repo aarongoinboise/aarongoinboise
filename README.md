@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aarongoinboise
-- 👀 I’m interested in software development, cybersecurity, business integrations, and self-improvement.
+- 👀 I’m interested in software development, machine learning, business integrations, and self-improvement.
 - 💪 I have a working knowledge of Git, Java, C, MySQL, Agile Development, Unit and Integration Testing, Linux commands, Digital Systems, Information Security, and more!
 - 🤝 My key skills include problem solving, verbal and written communication, curiosity, reliability, ambition, organizational skills, and emotional intelligence.
 - 🌱 I’m currently learning about Microprocessors, Web Development, AWS, Distributed Systems, Docker, and more!
