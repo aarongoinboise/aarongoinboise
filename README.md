@@ -1,6 +1,6 @@
 👋 Hi, I'm @aarongoinboise\
 👀 I'm interested in software development, machine learning, business integrations, and self-improvement.\
-💪 I work with Git, Java, C, MySQL, Agile Development, Unit and Integration Testing, Linux, Digital Systems, Information Security, low-code platforms (Zapier & Power Automate), chatbot development (Zendesk & VAPI), endpoint development, Retool for frontend, and technical writing.\
+💪 I work with Git, C#, MySQL, low-code platforms (Zapier & Power Automate), chatbot development (Zendesk & VAPI), endpoint development, Retool for frontend, and technical writing.\
 🤝 My key skills include problem solving, verbal and written communication, curiosity, reliability, ambition, organizational skills, and emotional intelligence.\
 🌱 I'm currently expanding into Call Center Metrics, Forecasting, and AI Agents that handle IVR scripts.\
 💞️ My favorite topics include efficient data parsing and allocation, algorithms, data structures, error handling, and backend projects with web applications.\
